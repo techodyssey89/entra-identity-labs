@@ -1,0 +1,2 @@
+# entra-identity-labs
+bicep
